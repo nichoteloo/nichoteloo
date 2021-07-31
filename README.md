@@ -18,7 +18,7 @@ I spend more time on developing Web Application and several IoT Projects. I also
 
 <p align="center">
  <a href="https://t.me/nichotelo"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
- <a href="https://discordapp.com/users/811025905769381918"><img src="https://img.shields.io/badge/Discord-7B1DAF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+ <a href="https://www.linkedin.com/in/nicolaschristianto/"><img src="https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"></a>
   <a href="https://twitter.com/nichotelo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
