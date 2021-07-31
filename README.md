@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicolas, full time Software Developer from Indonesia.
+I'm Nicolas, full time Software Developer from Yogyakarta, Indonesia.
 I spend more time on developing Web Application and several IoT Projects. I also enthusiast with Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
 
 <p align="center">
