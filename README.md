@@ -17,7 +17,7 @@ I'm Nicolas, full time Software Developer from Yogyakarta, Indonesia.
 I spend more time on developing Web Application and several IoT Projects. I also enthusiast with Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
 
 <p align="center">
-<!--  <a href="https://t.me/nichotelo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a> -->
+ <a href="https://t.me/nichotelo"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://twitter.com/nichotelo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
