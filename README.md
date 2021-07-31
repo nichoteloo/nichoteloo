@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="#"><img src="https://github.com/nichoteloo/nichoteloo/blob/main/image.png" alt="Nicho logo" width="60%"></a>
+  <a href="#"><img src="https://github.com/nichoteloo/nichoteloo/blob/main/image.png" alt="Nicho logo" width="100%"></a>
 </p>
 
 I'm Nicolas, full time Software Developer from Yogyakarta, Indonesia.
