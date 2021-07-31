@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="#"><img src="https://github.com/nichoteloo/nichoteloo/blob/main/image.png" alt="Nicho logo" width="60%"></a>
+</p>
+
 I'm Nicolas, full time Software Developer from Yogyakarta, Indonesia.
 I spend more time on developing Web Application and several IoT Projects. I also enthusiast with Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
 
