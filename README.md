@@ -18,7 +18,7 @@ I spend more time on developing Web Application and several IoT Projects. I also
 
 <p align="center">
 <!--  <a href="https://t.me/nichotelo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a> -->
-  <a href="https://twitter.com/nichotelo"><img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fnichotelo&label=healthinesses" alt="Twitter"></a>
+  <a href="https://twitter.com/nichotelo"><img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fnichotelo&color=red" alt="Twitter"></a>
 </p>
 
 <h3 align="center">Languages I've worked with</h3>
