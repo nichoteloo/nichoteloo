@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicolas, full time Software Developer from Yogyakarta, Indonesia.
-I spend more time on developing Web Application and several IoT Projects. I also enthusiast with Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
+### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
+I'm Nicolas, full time Software Developer with a Bachelor's Degree in Engineering. Currently staying in Yogyakarta, Indonesia.
+I recognize myself as a precise, communicative, detail-oriented, fast-learner, and analytical type of person. By now, I spend more time on developing self-projects by making a Web Application or several IoT Projects. I am also enthusiastic about Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
+
+<h3 align="center">Contact Me</h3>
 <p align="center">
  <a href="https://t.me/nichotelo"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
  <a href="https://www.linkedin.com/in/nicolaschristianto/"><img src="https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"></a>
