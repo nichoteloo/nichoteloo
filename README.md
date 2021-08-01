@@ -15,10 +15,26 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
-I'm Nicolas, freelance Software Developer with a Bachelor's Degree in Engineering. Currently staying in Yogyakarta, Indonesia.
+I'm Nicolas, Junior Software Developer with a Bachelor's Degree in Engineering. Currently staying in Yogyakarta, Indonesia.
 I recognize myself as a precise, communicative, detail-oriented, fast-learner, and analytical type of person. By now, I spend more time on developing self-projects by making a Web Application or several IoT Projects. I am also enthusiastic about Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
 
-<h3 align="center">Contact Me</h3>
+💻 My tech stack<br>
+
+Languages: Pythoh, PHP, JavaScript, HTML, CSS, SQL. <br>
+Frameworks & Libraries: Django, Flask, Codeigniter, FastAPI, React JS, jQuery, Bootstrap, Express.js. <br>
+Databases:  MySQL, PostgreSQL, InfluxDB, Sqlite3. <br> 
+ML Stack: Tensorflow, Scikit-learn, Numpy, Pandas. <br>
+Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
+
+⛓ My links
+* LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
+* Telegram: https://t.me/nichotelo
+* Twitter: https://twitter.com/nichotelo
+
+✉️ Get in contact with me 
+* Email: nichotelo@outlook.com
+
+<!-- <h3 align="center">Contact Me</h3>
 <p align="center">
  <a href="https://t.me/nichotelo"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
  <a href="https://www.linkedin.com/in/nicolaschristianto/"><img src="https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord"></a>
@@ -34,4 +50,4 @@ I recognize myself as a precise, communicative, detail-oriented, fast-learner, a
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
+</p> -->
