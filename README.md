@@ -21,7 +21,7 @@ I recognize myself as a precise, communicative, detail-oriented, fast-learner, a
 💻 My tech stack<br>
 
 Languages: Pythoh, PHP, JavaScript, HTML, CSS, SQL. <br>
-Frameworks & Libraries: Django, Flask, Codeigniter, FastAPI, React JS, jQuery, Bootstrap, Express.js. <br>
+Frameworks & Libraries: Django, Flask, Codeigniter, FastAPI, React JS, jQuery, Bootstrap. <br>
 Databases:  MySQL, PostgreSQL, InfluxDB, Sqlite3. <br> 
 ML Stack: Tensorflow, Scikit-learn, Numpy, Pandas. <br>
 Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
