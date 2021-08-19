@@ -30,6 +30,7 @@ Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Mosquitto Broker, PHPMy
 * LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
 * Telegram: https://t.me/nichotelo
 * Twitter: https://twitter.com/nichotelo
+* Portfolio: https://nichoteloo.github.io/
 
 ✉️ Get in contact with me 
 * Email: nichotelo@outlook.com
