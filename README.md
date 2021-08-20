@@ -27,10 +27,10 @@ ML Stack: Tensorflow, Scikit-learn, Numpy, Pandas. <br>
 Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
 
 ⛓ My links
-* LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
-* Telegram: https://t.me/nichotelo
-* Twitter: https://twitter.com/nichotelo
 * Portfolio: https://nichoteloo.github.io/
+* Telegram: https://t.me/nichotelo
+* LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
+* Twitter: https://twitter.com/nichotelo
 
 ✉️ Get in contact with me 
 * Email: nichotelo@outlook.com
