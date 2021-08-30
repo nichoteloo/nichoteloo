@@ -28,12 +28,12 @@ Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Mosquitto Broker, PHPMy
 
 ⛓ My links
 * Portfolio: https://nichoteloo.github.io/
-* Telegram: https://t.me/nichotelo
 * LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
 * Twitter: https://twitter.com/nichotelo
 
 ✉️ Get in contact with me 
 * Email: nichotelo@outlook.com
+* Telegram: https://t.me/nichotelo
 
 <!-- <h3 align="center">Contact Me</h3>
 <p align="center">
