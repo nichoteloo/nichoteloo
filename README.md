@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
-I'm Nicolas, a Python Developer. Currently staying in Yogyakarta, Indonesia. By now, I spend more time on developing ML module for client as well as make a Web Application projects at @Geniebook. I am also enthusiastic about Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
+I'm Nicolas, a Python Developer. Currently work remotely from Yogyakarta, Indonesia. By now, I spend more time on developing ML module for client as well as make a Web Application projects at @Geniebook. I am also enthusiastic about Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
 
 💻 My tech stack<br>
 
