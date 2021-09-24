@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
-I'm Nicolas, Junior Software Developer with a Bachelor's Degree in Engineering. Currently staying in Yogyakarta, Indonesia.
-I recognize myself as a precise, communicative, detail-oriented, fast-learner, and analytical type of person. By now, I spend more time on developing ML module for client as well as make a Web Application projects. I am also enthusiastic about Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
+I'm Nicolas, a Python Developer. Currently staying in Yogyakarta, Indonesia. By now, I spend more time on developing ML module for client as well as make a Web Application projects at @Geniebook. I am also enthusiastic about Back-End Operation and Software System Design. This page is the place where you can find all my works. Have a good time !
 
 💻 My tech stack<br>
 
 Languages: Python, PHP, JavaScript, HTML, CSS, SQL. <br>
-Frameworks & Libraries: Django, Flask, Codeigniter, FastAPI, React JS, jQuery, Bootstrap. <br>
+Frameworks & Libraries: Django, Flask, Codeigniter, FastAPI, React JS, Bootstrap. <br>
 Databases:  MySQL, PostgreSQL, InfluxDB, Sqlite3. <br> 
 ML Stack: Tensorflow, Scikit-learn, Numpy, Pandas. <br>
 Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
