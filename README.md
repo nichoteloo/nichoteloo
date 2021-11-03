@@ -28,7 +28,6 @@ Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Kafka, Airflow, Mosquit
 ⛓ My links
 * Portfolio: https://nichoteloo.github.io/
 * LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
-* Twitter: https://twitter.com/nichotelo
 
 ✉️ Get in contact with me 
 * Email: nichotelo@outlook.com
