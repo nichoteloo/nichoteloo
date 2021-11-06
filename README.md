@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
-I'm Nicolas, a Junior Software Developer. Currently work remotely from Yogyakarta, Indonesia. I am also interested in Back-End Operation and Data Engineering Design. This page is the place where you can find all my works. Have a good time !
+I'm Nicolas, a Junior Software Developer. Currently work remotely from Yogyakarta, Indonesia. I am interested in Back-End Operation and Data Engineering Design. This page is the place where you can find all my works. Have a good time !
 
 💻 My tech stack<br>
 
 Languages: Python, PHP, Go, JavaScript, HTML, CSS, SQL. <br>
-Frameworks & Libraries: Django, Flask, Codeigniter, FastAPI, React JS, Bootstrap. <br>
-Databases:  MySQL, PostgreSQL, InfluxDB, Sqlite3. <br> 
+Frameworks & Libraries: Django, Flask, Echo, Codeigniter, FastAPI, React JS, Bootstrap. <br>
+Databases:  MySQL, PostgreSQL, InfluxDB. <br> 
 ML Stack: Tensorflow, Scikit-learn, Numpy, Pandas. <br>
-Other Tools: Git, Github, CommandLine, NodeRed, Grafana, Kafka, Airflow, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
+Other Tools: Git, Github, Shell, NodeRed, Grafana, Kafka, Airflow, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
 
 ⛓ My links
 * Portfolio: https://nichoteloo.github.io/
