@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
-I'm Nicolas, a Junior Software Developer. Currently work remotely from Yogyakarta, Indonesia. I am interested in Back-End Operation and Data Engineering Design. This page is the place where you can find all my works. Have a good time !
+Junior Software Developer who currently works remotely from Yogyakarta, Indonesia. Interested in Back-End Operation and Data Engineering Design.
 
 💻 My tech stack<br>
 
