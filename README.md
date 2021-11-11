@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 
 Junior Software Developer who currently works remotely from Yogyakarta, Indonesia. Interested in Back-End Operation and Application Development.
 
-💻 My tech stack<br>
-
-Languages: Python, PHP, Go, JavaScript, HTML, CSS, SQL. <br>
-Frameworks & Libraries: Django, Flask, Echo, Codeigniter, FastAPI, React JS, Bootstrap. <br>
-Databases:  MySQL, PostgreSQL, InfluxDB. <br> 
-ML Stack: Tensorflow, Scikit-learn, Numpy, Pandas. <br>
-Other Tools: Git, Github, Shell, NodeRed, Grafana, Kafka, Airflow, Mosquitto Broker, PHPMyAdmin, Heroku, VSCode. <br>
-
 ⛓ My links
 * Portfolio: https://nichoteloo.github.io/
 * LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
