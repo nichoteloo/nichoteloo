@@ -19,11 +19,9 @@ Aspiring software engineer. Interested in Back-End Operation and Application Dev
 
 ⛓ My links
 * Portfolio: https://nichoteloo.github.io/
-* LinkedIn: https://www.linkedin.com/in/nicolaschristianto/
 
 ✉️ Get in contact with me 
 * Email: nichotelo@outlook.com
-* Telegram: https://t.me/nichotelo
 
 <!-- <h3 align="center">Contact Me</h3>
 <p align="center">
