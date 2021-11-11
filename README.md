@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
 
-Junior Software Developer who currently works remotely from Yogyakarta, Indonesia. Interested in Back-End Operation and Application Development.
+Aspiring software engineer. Interested in Back-End Operation and Application Development.
 
 ⛓ My links
 * Portfolio: https://nichoteloo.github.io/
