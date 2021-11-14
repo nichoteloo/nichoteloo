@@ -13,15 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello Guys, I'm Nico! Nice to virtually meet you! 👋
-
-Aspiring software engineer. Interested in Back-End Operation and Application Development.
-
-⛓ My links
-* Portfolio: https://nichoteloo.github.io/
-
-✉️ Get in contact with me 
-* Email: nichotelo@outlook.com
+### Oke, Hi! 👋
 
 <!-- <h3 align="center">Contact Me</h3>
 <p align="center">
